@@ -1,0 +1,5 @@
+,Classifiers,AverEER
+0,SVC,0.17283696208605281
+1,Newural Network,0.5
+2,Random Forest,0.13834101726891193
+3,DecisionTreeClassifier,0.2622317180489517
